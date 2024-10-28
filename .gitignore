@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/environments/dev/.terraform
+/project1/environments/dev/.terraform
+/project1/environments/prod/.terraform
